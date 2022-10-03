@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vikhyatsingh123.vikhyatsingh123">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahulpandey21.rahulpandey21">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Vikhyat+Singh....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Rahul+Pandey....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -78,7 +78,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
-  <a href="https://github.com/vikhyatsingh123?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/rahulpandey21?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <hr>
@@ -86,7 +86,7 @@
 <h2 align="center">🏆 Profile Trophy 🏆</h2>
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=vikhyatsingh123&column=8&theme=onedark&no-frame=true"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=rahulpandey21&column=8&theme=onedark&no-frame=true"/>
 </a>
 </div>
 <!-- end here -->
